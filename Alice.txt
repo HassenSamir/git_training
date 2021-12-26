@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Updating Alice file to understand branch concept.
 Updating Alice File to understand Merging divergent branches.
+Change via the website to understand how to resolve a rebase conflict.
